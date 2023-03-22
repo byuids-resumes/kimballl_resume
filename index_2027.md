@@ -1,13 +1,13 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Larame Kimball's resume
 ---
 # Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Tax Intern at Cooper Norman
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="kim18011@byui.edu">kim18011@byui.edu</a>
+| <a href="https://www.linkedin.com/in/laramie-kimball/">Data Science Program</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -15,12 +15,12 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-Current`
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -30,7 +30,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`January 2028 - June 2028`
+`January 2022 - April 2022`
 __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
