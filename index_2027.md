@@ -1,7 +1,3 @@
----
-layout: resume
-title: Larame Kimball's resume
----
 # Laramie Kimball 
 Tax Intern at Cooper Norman
 
