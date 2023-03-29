@@ -2,7 +2,7 @@
 layout: resume
 title: Larame Kimball's resume
 ---
-# Brigham Young
+# Laramie Kimball 
 Tax Intern at Cooper Norman
 
 <div id="webaddress">
@@ -15,74 +15,57 @@ Tax Intern at Cooper Norman
 
 ## Education
 
+
+__Brigham Young University - Idaho__, Rexburg, ID
 `2018-Current`
-__Brigham Young University - Idaho__, Rexburg, ID
 
+- Bachelor of Science in Accounting
 - Full academic scholarship with 4.0 GPA
-
-`Expected July 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2022 - April 2022`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Member of the Student Accounting Society 
 
 
 
-<!-- ### Footer
+## WORK EXPERIENCE 
 
-Last updated: May 2013 -->
+### Audit Intern (Remote)
+__Hinton Burdick CPAs & Advisors__, Rexburg, Idaho
+`Sept 2022 - Dec 2022`
 
+- Compiled lists of materially significant transactions from the detail General Ledger and used prior year workpapers to determine how to test specific accounts.
+- Assisted Tax team in preparing individual tax returns in order to meet the extended deadline 
+
+### FSY Coordinator and Assistant Coordinator
+`Jun 2022 - Aug 2022`
+__The Church of Jesus Christ of Latter-day Saints__, Utah, Virginia, and Wyoming
+
+- Coordinated with up to eighty staff, campus personnel, and session directors to facilitate each session 
+- Worked over sixty hours a week fulfilling duties including leading meetings, organizing the musical program, responding to questions and concerns on call, and filling pizza orders for all the youth 
+
+### Tax Intern
+`Jan 2022 - Apr 2022`
+__Cooper Norman__, Rexburg, Idaho
+
+-Prepared individual and entity tax returns for 50-60 hours a week 
+-Collaborated with team members to apply tax procedures to help individual clients 
+-Utilized different software such as UltraTax, GoFileRoom, Excel, and Fixed Assets 
+
+### Student Instructor
+`Jan 2021 - Dec 2021`
+__Brigham Young University-Idaho__, Rexburg, Idaho
+
+- Developed communication proficiency by instructing students in principles of grit and growth mindset 
+- Collaborated with instructors which resulted in improved teaching skills and connection with students 
+- Followed ethical procedure regarding privacy laws and regulations  
+
+
+
+
+## Volunteer Experience
+
+### Full-time Volunteer Representative
+`Jun 2019 - Dec 2020`
+__The Church of Jesus Christ of Latter-day Saints__, Winnipeg, Canada
+
+- Served 60+ hours a week and focused on building others physically, spiritually and emotionally
+- Instructed a group of 24 volunteers in technology management and our social media page 
 
