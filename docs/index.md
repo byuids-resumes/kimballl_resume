@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Laramie Kimball's Resume
 ---
 # Laramie Kimball 
 Tax Intern at Cooper Norman
